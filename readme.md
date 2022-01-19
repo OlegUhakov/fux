@@ -21,3 +21,4 @@ B.
 3. Write number of letters which you want to delete
 
 
+![GitHub Logo](https://github.com/OlegUhakov/fux/blob/main/fux.png)
